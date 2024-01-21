@@ -1,3 +1,6 @@
+#Codehal Tutorial - Login Page
+Welcome to the Codehal Tutorial login page! This simple and stylish login form was developed following Codehal Tutorial on YT.
+
 # Features
 Uses the Poppins font for a modern look.
 Backdrop filter with blur for a subtle background effect.
